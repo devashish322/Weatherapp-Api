@@ -1,0 +1,29 @@
+.weatherBg{
+  background: url(evening-sky-1255763.jpg);
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading{
+  color: white;
+
+}
+.weatherResultBox{
+  margin: auto;
+  width: 500px;
+  height: 300px;
+}
+.weatherIcon{
+  width: 100px;
+  height: 100px;
+  margin-top: 2rem;
+}
+.weatherCity{
+  font-size: 35px;
+}
+.weatherTemp{
+  font-size: 55px;
+  font-weight: 700;
+}
